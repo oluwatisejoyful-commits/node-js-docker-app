@@ -1,4 +1,0 @@
-Visit http://localhost:3000
-
-## 1. Docker Build Command
-Command used to build the image:

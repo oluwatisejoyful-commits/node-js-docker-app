@@ -1,6 +1,0 @@
-![Docker Build](screenshots/docker-build.png)
-
-## 2. Docker Hub Image
-![Docker Hub](screenshots/docker-hub.png)
-
-## 3. Running Docker Container
